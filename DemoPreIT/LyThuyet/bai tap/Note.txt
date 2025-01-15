@@ -1,0 +1,38 @@
+Ký tự bao gồm:
+1: Chữ cái:
+	Chữ thường: a->z
+	Chữ hoa   : A->Z
+2:
+
+Kiểu dự liệu ký tự (char) dùng ' nháy đơn
+	-Chữ cái:
+		Chữ thường: a->z
+		Chữ hoa   : A->Z
+	-Chữ số: 0,1,2,3,4,5,6,7,8,9
+	-Các ký tự đặc biệt:`~!@#$%^&*()_+-=,./?{}|[]\:;"'<>
+
+Kiểu dữ liệu chuỗi ký tự (string) dùng " nháy kép
+	Tập hợp của nhiều ký tự
+
+Kiểu dữ liệu số
+	- Số nguyên: 10 20 30
+		Int
+		Long
+		Long long
+		Unsigned int
+		Unsigned long
+	- Số thực: 12.5 
+		Float
+		Double
+	- Phép toán:
+		Cộng: +
+		Trừ:  -
+		Nhân: *
+		Chia: /
+		Lấy phần dư: %
+
+Kiểu dữ liệu logic (bool): boolean
+	Phép toán AND (và) (&&):  trả về đúng khi cả 2 vế đều đúng
+	Phép toán OR (hoặc) (||): trả về đúng khi 1 trong 2 về đúng
+	
+	
