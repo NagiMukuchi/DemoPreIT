@@ -7,8 +7,7 @@ using namespace std;
 
 int main()
 {
-    int chieu_cao, canh_a, canh_b, canh_c, canh_d;
-    int chu_vi, dien_tich;
+    double chieu_cao, canh_a, canh_b, canh_c, canh_d, chu_vi, dien_tich;
 
     cout << "Vui long nhap chieu cao (h): ";
     cin >> chieu_cao;
@@ -26,7 +25,7 @@ int main()
     cout << "Chu vi hinh thang can la: " << chu_vi << " cm." << endl;
 
     // S=((a + b)*h)/2
-    dien_tich = ((canh_a + canh_b) * chieu_cao) / 2;
+    dien_tich = (canh_a + canh_b) * chieu_cao / 2;
     cout << "Dien tich hinh thang can la: " << dien_tich << " cm." << endl;
 
 }

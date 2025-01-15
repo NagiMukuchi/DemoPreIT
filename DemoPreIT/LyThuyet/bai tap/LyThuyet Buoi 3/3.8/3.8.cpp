@@ -5,7 +5,7 @@
 using namespace std;
 
 int main() {
-    int gio, phut, giay;
+    int gio, phut, giay, tongGiay;
 
     // Nhap gio, phut, giay
     cout << "Nhap vao so gio: ";
@@ -18,7 +18,7 @@ int main() {
     cin >> giay;
 
     // Chuyen doi qua tong so giay
-    int tongGiay = gio * 3600 + phut * 60 + giay;
+    tongGiay = gio * 3600 + phut * 60 + giay;
 
     // In ket qua
     cout << "Tong so giay la: " << tongGiay << endl;

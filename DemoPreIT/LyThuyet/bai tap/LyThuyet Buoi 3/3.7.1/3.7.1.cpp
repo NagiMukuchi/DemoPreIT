@@ -31,6 +31,6 @@ int main() {
     cout << "Ten san pham: " << tenSanPham << endl;
     cout << "So luong: " << soLuong << endl;
     cout << "Don gia: " << donGia << endl;
-    cout << "Tong tien: " << tongTien << endl;
+    cout << "Tong tien: " << tongTien << "VND" << endl;
     cout << "Thue GTGT (10%): " << VAT << endl;
 }
