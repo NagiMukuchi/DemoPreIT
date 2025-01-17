@@ -22,9 +22,7 @@ int main() {
         num_vcd_short * rental_price_vcd + num_vcd_long * rental_price_vcd;
     float total_deposit_fee = deposit_fee;
 
-    std::cout << "Tổng tiền thuê băng đĩa là: " << total_rental_fee << " VNĐ\n";
-    std::cout << "Tổng tiền đặt cọc là: " << total_deposit_fee << " VNĐ\n";
-    std::cout << "Tổng số tiền cần trả là: " << total_rental_fee + total_deposit_fee << " VNĐ\n";
-
-    return 0;
+    std::cout << "Tong tien thue bang dia la: " << total_rental_fee << " VNĐ\n";
+    std::cout << "Tong tien dat coc la: " << total_deposit_fee << " VNĐ\n";
+    std::cout << "Tong so tien can tra la: " << total_rental_fee + total_deposit_fee << " VNĐ\n";
 }
