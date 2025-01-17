@@ -40,7 +40,9 @@ int main() {
     case 10:
         cout << "Thap" << endl;
         break;
+    default:
         cout << "So khong hop le!" << endl;
     }
+
 }
 
