@@ -15,6 +15,4 @@ int main() {
     else {
         cout << year << " khong phai nam nhuan." << endl;
     }
-
-    return 0;
 }
