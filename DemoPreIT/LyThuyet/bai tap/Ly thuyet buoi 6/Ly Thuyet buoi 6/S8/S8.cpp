@@ -19,7 +19,7 @@ long long factorial(int n) {
 
 int main() {
     int N;
-    cout << "Nhap so nguyen N: ";
+    cout << "Nhap so nguyen N: "<< endl;
     cin >> N;
 
     long long S8 = 1;

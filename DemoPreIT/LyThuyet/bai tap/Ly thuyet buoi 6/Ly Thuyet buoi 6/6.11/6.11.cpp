@@ -1,4 +1,4 @@
-// S11.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// 6.11.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
@@ -10,8 +10,6 @@ using namespace std;
 
 int main() {
     int a, b;
-
-    // Nhap 2 so nguyen duong a va b tu ban phim
     cout << "Nhap so nguyen duong a: ";
     cin >> a;
     cout << "Nhap so nguyen duong b: ";
@@ -21,7 +19,7 @@ int main() {
     if (a < 0) a = -a;
     if (b < 0) b = -b;
 
-    // Neu mot trong hai so la 0 thi USCLN la so con lai
+    // Neu mot trong hai so la 0 thi Uoc so chung lon nhat la so con lai
     if (a == 0 || b == 0) {
         cout << "Uoc so chung lon nhat la: " << (a + b) << endl;
         return 0;
@@ -37,7 +35,7 @@ int main() {
         }
     }
 
-    // Khi a va b bang nhau thi dung lai va a hoac b la USCLN
+    // Khi a va b bang nhau thi dung lai va a hoac b la Uoc so chung lon nhat
     cout << "Uoc so chung lon nhat la: " << a << endl;
 
     return 0;
