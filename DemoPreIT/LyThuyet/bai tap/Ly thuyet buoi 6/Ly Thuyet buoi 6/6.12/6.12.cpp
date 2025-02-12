@@ -106,10 +106,10 @@ int main() {
     // nay de ngan cach giua 2 hinh
     cout << endl;
 
-    // Ve hinh tam giac vuong can dac hinh 16
+    // Ve hinh tam giac vuong can hinh 16
     for (int i = 1; i <= chieuCao; i++) {
         for (int j = 1; j <= i; j++) {
-            cout << i << " ";
+            cout << j << " "; 
         }
         cout << endl;
     }
