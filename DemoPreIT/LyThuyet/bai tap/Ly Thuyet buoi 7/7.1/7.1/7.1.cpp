@@ -42,22 +42,7 @@ int main() {
     cout << "Yeu cau 3: Tong gia tri cac phan tu co gia tri la so chan: " << sum << endl;
     cout << endl;// Cach dong
 
-    // Yeu cau 4: Tim kiem va hien thi tri so cua cac phan tu co gia tri am. Thay the cac phan tu co gia tri am bang gia tri 0
-    cout << "Yeu cau 4: Cac phan tu co gia tri am: " << endl;
-    for (int i = 0; i < n; i++) {
-        if (arr[i] < 0) {
-            cout << "Vi tri: " << i << ", Gia tri: " << arr[i] << endl;
-            arr[i] = 0; // Thay the gia tri am bang gia tri 0
-        }
-    }
-    cout << endl;// Cach dong
-
-    // In lai mang sau khi thay the
-    cout << "Mang sau khi thay the cac phan tu am bang 0: ";
-    for (int i = 0; i < n; i++) {
-        cout << arr[i] << " ";
-    }
-    cout << endl;// Cach dong
+    
 
     // Yeu cau 5: Sap xep day so theo thu tu tang dan va in ra man hinh
     for (int i = 0; i < n - 1; i++) {
@@ -94,6 +79,24 @@ int main() {
     for (int i = 0; i < n; i++) {
         cout << arr[i] << " ";
     }
+
+    cout << endl;// Cach dong
+    // Yeu cau 7: Tim kiem va hien thi tri so cua cac phan tu co gia tri am. Thay the cac phan tu co gia tri am bang gia tri 0
+    cout << "Yeu cau 7: Cac phan tu co gia tri am: " << endl;
+    for (int i = 0; i < n; i++) {
+        if (arr[i] < 0) {
+            cout << "Vi tri: " << i << ", Gia tri: " << arr[i] << endl;
+            arr[i] = 0; // Thay the gia tri am bang gia tri 0
+        }
+    }
+    cout << endl;// Cach dong
+
+    // In lai mang sau khi thay the
+    cout << "Mang sau khi thay the cac phan tu am bang 0: ";
+    for (int i = 0; i < n; i++) {
+        cout << arr[i] << " ";
+    }
+    cout << endl;// Cach dong
 
     return 0;
 }
