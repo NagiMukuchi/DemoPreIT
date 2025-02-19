@@ -1,24 +1,39 @@
-// 7.4.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
 #include <iostream>
 #include <iomanip>
 #include <string>
 #include <cmath>
+
 using namespace std;
 
-int main() {
-    int n;
-    cout << "Nhap so luong phan tu cua mang: ";
+void NhapMang(int& n, int a[]) {
+    cout << "Nhap so luong phan tu N: ";
     cin >> n;
 
-    // Khai bao mang dong cac so nguyen
-    int* arr = new int[n];
-
-    cout << "Nhap cac phan tu cua mang: ";
     for (int i = 0; i < n; i++) {
-        cout << "Nhap cac phan tu cua mang: ";
-        cin >> arr[i];
+        cout << "Nhap a[" << i << "]: ";
+        cin >> a[i];
+    }
+}
+
+bool KiemTraDoiXung(int n, int a[]) {
+    for (int i = 0; i < n / 2; i++) {
+        if (a[i] != a[n - i - 1]) {
+            return false;
+        }
+    }
+    return true;
+}
+
+int main() {
+    int a[100], n;
+    NhapMang(n, a);
+
+    if (KiemTraDoiXung(n, a)) {
+        cout << "Mang doi xung!" << endl;
+    }
+    else {
+        cout << "Mang khong doi xung!" << endl;
     }
 
+    return 0;
 }

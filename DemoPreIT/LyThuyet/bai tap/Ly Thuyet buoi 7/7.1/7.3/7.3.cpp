@@ -15,7 +15,6 @@ int main() {
     // Khai bao mang dong cac so nguyen
     int* arr = new int[n];
 
-    cout << "Nhap cac phan tu cua mang: ";
     for (int i = 0; i < n; i++) {
         cout << "Nhap cac phan tu cua mang: ";
         cin >> arr[i];
