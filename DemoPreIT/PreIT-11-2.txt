@@ -1,0 +1,204 @@
+Lao Hac
+Nam Cao
+250
+60000
+So do
+Vu Trong Phung
+300
+75000
+De Men Phieu Luu Ky
+To Hoai
+320
+50000
+Chi Pheo
+Nam Cao
+150
+30000
+Mat biec
+Nguyen Nhat Anh
+220
+80000
+Nhat ky trong tu
+Ho Chi Minh
+180
+120000
+Doan Thuyen Danh Ca
+Huy Can
+200
+50000
+Canh Dong Bat Tan
+Bao Ninh
+280
+100000
+Ben Khong Chong
+Duong Huong
+300
+90000
+Tat den
+Ngo Tat To
+400
+60000
+Rung xa nu
+Nguyen Trung Thanh
+200
+75000
+Loi nguyen cua me
+Do Bich Thuy
+150
+85000
+Co gai den tu hom qua
+Nguyen Nhat Anh
+250
+70000
+Mua he nam ay
+Nguyen Nhat Anh
+180
+80000
+Giot nuoc mat muon mang
+Ta Duy Anh
+220
+50000
+Bien Nho
+Nguyen Thi Thu Hue
+260
+95000
+Lang Le Sapa
+Nguyen Thanh Long
+280
+40000
+Vua nham mat vua mo cua so
+Do Bich Thuy
+230
+70000
+Doi mat
+Vu Ngoc Phan
+180
+60000
+Cay but long
+Huu Thinh
+210
+50000
+The Great Gatsby
+F Scott Fitzgerald
+180
+150000
+1984
+George Orwell
+328
+200000
+To Kill a Mockingbird
+Harper Lee
+281
+180000
+Pride and Prejudice
+Jane Austen
+279
+160000
+The Catcher in the Rye
+JD Salinger
+277
+170000
+The Lord of the Rings
+JRRTolkien
+1200
+500000
+Harry Potter and the Sorcerer's Stone
+JK Rowling
+320
+250000
+Moby-Dick
+Herman Melville
+635
+210000
+The Odyssey
+Homer
+500
+220000
+War and Peace
+Leo Tolstoy
+1200
+400000
+The Brothers Karamazov
+Fyodor Dostoevsky
+700
+300000
+Crime and Punishment
+Fyodor Dostoevsky
+450
+280000
+Brave New World
+Aldous Huxley
+311
+220000
+The Picture of Dorian Gray
+Oscar Wilde
+250
+180000
+The Diary of a Young Girl
+Anne Frank
+350
+190000
+Frankenstein
+Mary Shelley
+280
+160000
+Dracula
+Bram Stoker
+420
+200000
+The Hobbit
+JRRTolkien
+310
+230000
+Jane Eyre
+Charlotte Brontë
+500
+220000
+Wuthering Heights
+Emily Brontë
+350
+210000
+Fahrenheit 451
+Ray Bradbury
+256
+180000
+The Alchemist
+Paulo Coelho
+200
+190000
+Animal Farm
+George Orwell
+112
+150000
+The Fault in Our Stars
+John Green
+313
+200000
+The Hunger Games
+Suzanne Collins
+374
+210000
+The Book Thief
+Markus Zusak
+552
+250000
+The Road
+Cormac McCarthy
+287
+220000
+A Tale of Two Cities
+Charles Dickens
+400
+180000
+Les Miserables
+Victor Hugo
+1500
+600000
+The Grapes of Wrath
+John Steinbeck
+464
+190000
+Catch-22
+Joseph Heller
+453
+210000
