@@ -1,0 +1,51 @@
+NAF1 41 2 41 3.41781e+06 Nike Air Force 1
+AS 44 1 20 776410 Adidas Superstar
+CCT 37 0 40 1.81746e+06 Converse Chuck Taylor
+VOS 37 2 96 702916 Vans Old Skool
+PSC 38 2 37 4.71549e+06 Puma Suede Classic
+RCL 36 1 41 4.50778e+06 Reebok Classic Leather
+NB5 35 1 2 4.13565e+06 New Balance 574
+YB3 35 1 65 4.36308e+06 Yeezy Boost 350
+NAM9 42 1 42 2.88349e+06 Nike Air Max 90
+ASS 39 2 35 1.55744e+06 Adidas Stan Smith
+FDI 36 2 88 2.16586e+06 Fila Disruptor II
+DM1 37 1 47 3.35893e+06 Dr. Martens 1460
+BTS 41 0 87 3.1886e+06 Balenciaga Triple S
+GA 43 2 68 4.67258e+06 Gucci Ace
+AMO 37 0 33 3.51617e+06 Alexander McQueen Oversized
+NDL 36 2 88 806066 Nike Dunk Low
+J1R 43 0 85 3.32133e+06 Jordan 1 Retro
+Y7 43 0 95 2.4855e+06 Yeezy 700
+UACF 44 0 27 2.71169e+06 Under Armour Curry Flow
+AG 38 1 75 2.51868e+06 Asics Gel-Kayano
+MWR 36 1 2 3.2378e+06 Mizuno Wave Rider
+SJO 43 1 17 2.83292e+06 Saucony Jazz Original
+HOOC 35 0 63 3.89207e+06 Hoka One One Clifton
+NP3 38 1 63 554435 Nike Pegasus 39
+AUB 40 1 14 3.57167e+06 Adidas Ultra Boost
+RCC8 38 0 33 4.40064e+06 Reebok Club C 85
+NZV 42 0 61 1.14123e+06 Nike ZoomX Vaporfly
+SX 43 1 67 2.55586e+06 Salomon XT-6
+OCX 43 0 28 3.19252e+06 On Cloud X
+NBM 35 0 9 3.56734e+06 Nike Blazer Mid
+AG 43 0 75 4.93113e+06 Adidas Gazelle
+VV 39 2 16 4.37305e+06 Veja V-10
+T6 44 2 10 845162 Timberland 6-Inch
+TNFV 39 2 60 2.87708e+06 The North Face Vectiv
+MM2 42 1 61 2.47983e+06 Merrell Moab 2
+CNR 43 1 15 2.60064e+06 Columbia Newton Ridge
+BA 36 2 3 1.79369e+06 Birkenstock Arizona
+CCC 42 2 2 1.02284e+06 Crocs Classic Clog
+THX 41 2 94 597799 Teva Hurricane XLT2
+CZ 42 0 95 3.73574e+06 Chaco Z/Cloud
+NB3 36 2 98 2.50716e+06 New Balance 327
+NRI 39 0 61 503896 Nike React Infinity
+ANR 35 1 47 2.38151e+06 Adidas NMD R1
+SD 36 1 88 3.46394e+06 Skechers D'Lites
+PR 37 1 38 1.01413e+06 Puma RS-X
+NV 39 0 58 2.5248e+06 Nike Vapormax
+NAJ4 44 0 50 884415 Nike Air Jordan 4
+NSD 40 1 29 3.3592e+06 Nike SB Dunk
+AFL 42 1 55 552381 Adidas Forum Low
+UAHP 41 0 8 2.75332e+06 Under Armour HOVR Phantom
+
